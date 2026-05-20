@@ -92,7 +92,7 @@ Preprocessing follows MobileNetV2 normalization.
 • Cross-validation results are reported separately.
 • Only 2D grayscale B-mode images were used.
 • Segmentation masks included in the BUSI dataset were not used.
-• Random seed is fixed for reproducibility.
+• Random seed is fixed for reproducibility, AND CSV files have been added.
 
 ------------------------------------------------------------------
 6. License
